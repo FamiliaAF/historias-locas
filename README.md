@@ -15,20 +15,8 @@ Este proyecto genera historias locas en diferentes géneros: Terror, Aventura y 
 - **Modo aleatorio:** Genera una historia de cualquier género al azar 🎲
 - **Modo personalizado:** Crea tu propia historia introduciendo nombres, adjetivos, lugares, objetos y verbos ✍️
 
-## Requisitos
-
-- Python 3.x
-
 ## Cómo ejecutar
-
-1. Clona o descarga el repositorio.
-2. Ejecuta el script principal:
-
-   ```bash
-   python main.py
-   ```
-
-3. Sigue las instrucciones en pantalla para elegir una opción y generar historias.
+Sigue las instrucciones en pantalla para elegir una opción y generar historias.
 
 ## Ejemplo de uso
 
